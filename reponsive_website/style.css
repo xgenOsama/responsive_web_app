@@ -81,6 +81,9 @@ a:hover, a:active{
     color: #f0f456;
     font-size: 85%;
 }
+.video{
+    border-radius: 5px;
+}
 .top-content{
     margin-top: 1%;
     background: #091b2d;
